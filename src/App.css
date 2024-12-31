@@ -1,0 +1,12 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hello:hover{
+  background-color: rgb(255, 0, 0);
+  color: rgb(235, 229, 229);
+
+}
+
